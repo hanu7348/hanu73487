@@ -46,7 +46,7 @@ I am a highly skilled and experienced developer with expertise in various web de
 
 ## GitHub Statistics
 
-[![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=dark)](https://github.com/johndoe)
+[![hanu7348 GitHub Stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=dark)](https://github.com/johndoe)
 
 ## Languages and Tools
 

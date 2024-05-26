@@ -54,7 +54,7 @@ I am a highly skilled and experienced developer with expertise in various web de
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johndoe)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/johndoe)
-[![Website](https://img.shields.io/badge/-Website-brightgreen?style=flat-square&logo=google-chrome&logoColor=white)](https://johndoe.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:johndoe@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanumanthuarya/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/HanumanthuArya)
+[![Website](https://img.shields.io/badge/-Website-brightgreen?style=flat-square&logo=google-chrome&logoColor=white)]()
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aryahanumanthu@gmail.com)

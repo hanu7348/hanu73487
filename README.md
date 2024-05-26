@@ -1,4 +1,4 @@
-# hanu73487
+# hanu7348
 
 
 [![Web Developer](https://img.shields.io/badge/-Web%20Developer-brightgreen?style=flat-square&logo=html5&logoColor=white)](https://johndoe.com) [![Android Developer](https://img.shields.io/badge/-Android%20Developer-brightgreen?style=flat-square&logo=android&logoColor=white)](https://johndoe.com) [![Designer](https://img.shields.io/badge/-Designer-brightgreen?style=flat-square&logo=figma&logoColor=white)](https://johndoe.com) [![Student](https://img.shields.io/badge/-Student-brightgreen?style=flat-square&logo=google-classroom&logoColor=white)](https://university.edu)
@@ -46,7 +46,7 @@ I am a highly skilled and experienced developer with expertise in various web de
 
 ## GitHub Statistics
 
-[![hanu7348 GitHub Stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=dark)](https://github.com/johndoe)
+[![hanu7348 GitHub Stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=dark)](https://github.com/hanu7348)
 
 ## Languages and Tools
 
